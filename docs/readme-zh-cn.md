@@ -5,7 +5,7 @@
 		<![endif]-->
 		<picture>
 			<source srcset="https://github.com/pmmp/PocketMine-MP/raw/stable/.github/readme/pocketmine-dark.png" media="(prefers-color-scheme: dark)">
-			<img src="https://github.com/pmmp/PocketMine-MP/raw/stable/.github/readme/pocketmine.png" loading="eager" />
+			<img src="PocketMine-h.png" loading="eager" />
 		</picture>
 	</a><br>
 	<b>使用PHP语言编写的高度可定制且开源的Minecraft:Bedrock Edition服务端</b>
@@ -27,19 +27,19 @@
 - [Docker镜像](https://hub.docker.com/r/pmmp/pocketmine-mp)
 - [插件下载](https://poggit.pmmp.io/plugins)
 
-## Discussion/Help
-- [Forums](https://forums.pmmp.io/)
+## 讨论与帮助
+- [论坛](https://forums.pmmp.io/)
 - [Discord](https://discord.gg/bmSAZBG)
 - [StackOverflow](https://stackoverflow.com/tags/pocketmine)
 
-## For developers
- * [Building and running from source](BUILDING.md)
- * [Developer documentation](https://devdoc.pmmp.io) - General documentation for PocketMine-MP plugin developers
- * [Latest release API documentation](https://apidoc.pmmp.io) - Doxygen API documentation generated for each release
- * [Latest bleeding-edge API documentation](https://apidoc-dev.pmmp.io) - Doxygen API documentation generated weekly from `next-major` branch
- * [DevTools](https://github.com/pmmp/DevTools/) - Development tools plugin for creating plugins
- * [ExamplePlugin](https://github.com/pmmp/ExamplePlugin/) - Example plugin demonstrating some basic API features
- * [Contributing Guidelines](CONTRIBUTING.md)
+## 开发者
+ * [从源代码构建以及运行](BUILDING.md)
+ * [开发者文档](https://devdoc.pmmp.io) - General documentation for PocketMine-MP plugin developers
+ * [最近的发行版API文档](https://apidoc.pmmp.io) - Doxygen API documentation generated for each release
+ * [最新的API文档](https://apidoc-dev.pmmp.io) - Doxygen API documentation generated weekly from `next-major` branch
+ * [开发者工具箱](https://github.com/pmmp/DevTools/) - Development tools plugin for creating plugins
+ * [实例插件](https://github.com/pmmp/ExamplePlugin/) - Example plugin demonstrating some basic API features
+ * [贡献指南](CONTRIBUTING.md)
 
 ## Donate
 - Bitcoin Cash (BCH): `qq3r46hn6ljnhnqnfwxt5pg3g447eq9jhvw5ddfear`
