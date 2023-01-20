@@ -34,11 +34,11 @@
 
 ## 开发者
  * [从源代码构建以及运行](BUILDING.md)
- * [开发者文档](https://devdoc.pmmp.io) - General documentation for PocketMine-MP plugin developers
- * [最近的发行版API文档](https://apidoc.pmmp.io) - Doxygen API documentation generated for each release
- * [最新的API文档](https://apidoc-dev.pmmp.io) - Doxygen API documentation generated weekly from `next-major` branch
- * [开发者工具箱](https://github.com/pmmp/DevTools/) - Development tools plugin for creating plugins
- * [实例插件](https://github.com/pmmp/ExamplePlugin/) - Example plugin demonstrating some basic API features
+ * [开发者文档](https://devdoc.pmmp.io) - PocketMine-MP插件开发人员的文档
+ * [最近的发行版API文档](https://apidoc.pmmp.io) - 为每个版本生成的Doxygen API文档
+ * [最新的API文档](https://apidoc-dev.pmmp.io) - Doxygen API文档每周从“next-major”分支生成
+ * [开发者工具箱](https://github.com/pmmp/DevTools/) - 用于编写插件的开发工具插件
+ * [实例插件](https://github.com/pmmp/ExamplePlugin/) - 演示一些基本API功能的示例插件
  * [贡献指南](CONTRIBUTING.md)
 
 ## Donate
@@ -50,4 +50,4 @@
 ## Licensing information
 This project is licensed under LGPL-3.0. Please see the [LICENSE](/LICENSE) file for details.
 
-pmmp/PocketMine are not affiliated with Mojang. All brands and trademarks belong to their respective owners. PocketMine-MP is not a Mojang-approved software, nor is it associated with Mojang.
+pmmp/PocketMine不属于Mojang。所有品牌和商标均属于各自所有者。PocketMine MP不是Mojang批准的软件，也与Mojang无关。
