@@ -5,7 +5,7 @@
 		<![endif]-->
 		<picture>
 			<source srcset="https://github.com/pmmp/PocketMine-MP/raw/stable/.github/readme/pocketmine-dark.png" media="(prefers-color-scheme: dark)">
-			<img src="PocketMine-h.png" loading="eager" />
+			<img src="https://gitee.com/mibino233/pmmp-zh-cn-docs-files/raw/master/PocketMine-h.png" loading="eager" />
 		</picture>
 	</a><br>
 	<b>使用PHP语言编写的高度可定制且开源的Minecraft:Bedrock Edition服务端</b>
